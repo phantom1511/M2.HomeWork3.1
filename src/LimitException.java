@@ -1,4 +1,5 @@
 public class LimitException extends Exception {
+
     String message;
     double remainingAmount;
 
